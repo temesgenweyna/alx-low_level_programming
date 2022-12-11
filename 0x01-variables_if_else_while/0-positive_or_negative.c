@@ -27,5 +27,5 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	Return (0);
+	return (0);
 }
